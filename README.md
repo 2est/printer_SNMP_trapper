@@ -13,3 +13,4 @@ To work you will need:
 - pysnmp.carrier.asyncore.dgram package
 - pysnmp.entity.rfc3413 package
 
+After using the script, you can see the received data in the received_traps20210923.log file.
